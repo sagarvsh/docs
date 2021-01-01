@@ -5,9 +5,9 @@ site_author: Sagar V S
 site_description: >-
   Welcome to my personal documentation site
   These pages contain radom documents which I have created
-  which may be useful or just saved for the sake of it
-  Dont know when it will be useful, but what the hell
-  Lets publish it, Cheers!!!
+  which may be useful or just saved for the sake of it.
+  Dont know when it will be useful, but decided to
+  publish!!!
 
 # Repository
 repo_name: sagarvsh/docs
@@ -171,12 +171,9 @@ nav:
     - MathJax: reference/mathjax.md
     - Meta tags: reference/meta-tags.md
     - Variables: reference/variables.md
-  - Changelog:
-    - Material for MkDocs: changelog.md
-    - Material for MkDocs Insiders: changelog/insiders.md
-    - Guides:
-      - Upgrading: upgrading.md
-      - Deprecations: deprecations.md
+  - Guides:
+    - Upgrading: upgrading.md
+    - Deprecations: deprecations.md
 
 # Google Analytics
 google_analytics:
